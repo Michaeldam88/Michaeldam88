@@ -29,7 +29,7 @@ After more than a year of learning by myself about the basics of front-end devel
 
 You can rech me here:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-d-7246279b/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damiani-michael/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Michaeldam88&label=Profile%20views&color=0e75b6&style=flat" alt="Michaeldam88" /> </p>
